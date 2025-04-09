@@ -1,4 +1,6 @@
-const BASE_URL = "http://localhost:5000";
+const BASE__URL = "http://localhost:5000";
+const BASE_URL = "https://my-deeds-demo-api.vercel.app";
+
 
 export const CreateUser = async (userObj) => {
     // const url = `${BASE_URL}/api/auth/create-user`;
