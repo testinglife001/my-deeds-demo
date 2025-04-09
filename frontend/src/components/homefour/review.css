@@ -1,0 +1,46 @@
+.carousel-inner {
+  height: 500px;
+  margin: 50px 0px 0px 0px;
+}
+.carousel-indicators {
+  padding-bottom: 50px;
+  background-color: black;
+}
+.review {
+  padding: 0px 205px;
+  margin: 0px;
+}
+.carousel-control-next-icon {
+  background-color: black;
+}
+.carousel-control-prev-icon {
+  background-color: black;
+}
+.rounded-circle {
+  
+  margin: 20px auto ;
+  
+  border: 5px solid#262626;
+  background-color: red;
+  border-radius: 50px;
+}
+
+.review_headline {
+  position: absolute;
+  background-color: #262626;
+  height: 120px;
+  width: 100%;
+z-index: -1;
+}
+.review_headline h1 {
+  color: white;
+  font-size: 50px;
+}
+.reviewer_name {
+  margin: 0px;
+}
+.image_box{
+padding-top: 30px;
+ width:150px;
+margin: 0 auto;
+}

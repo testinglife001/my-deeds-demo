@@ -1,0 +1,33 @@
+.motivatinal {
+  height: 730px;
+  padding: 50px 50px 150px 50px;
+
+  background-color: #8fb9c9;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.motivation_img {
+  height: 400px;
+  filter: brightness(170%);
+  float: left;
+}
+
+.motivationOfTrek {
+  position: absolute;
+  right: 50px;
+  z-index: 0;
+  background-color: #dbdbdb;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.4);
+}
+.Motivation_lines {
+  padding-top: 50px;
+  padding-left: 100px;
+}
+.motivation_image_block {
+  position: relative;
+  top: 100px;
+  left: 140px;
+  z-index: 1;
+}
